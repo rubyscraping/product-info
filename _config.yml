@@ -1,5 +1,6 @@
 exclude: [
     '_config.yml',
+    '_script',
     '.gitignore',
     '.rvmrc',
     '.travis.yml',
@@ -7,6 +8,5 @@ exclude: [
     'Gemfile.lock',
     'Gemfile',
     'Readme.md',
-    'script',
     'vendor'
   ]
