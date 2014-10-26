@@ -1,0 +1,11 @@
+exclude: [
+    '_config.yml',
+    '.gitignore',
+    '.rvmrc',
+    '.travis.yml',
+    'CNAME',
+    'Gemfile.lock',
+    'Gemfile',
+    'Readme.md',
+    'script'
+  ]
